@@ -1,1 +1,1 @@
-const savedNumbers = ['6281353526517'];
+const savedNumbers = ['6281353526517', '6285215068591'];
