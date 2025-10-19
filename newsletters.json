@@ -1,7 +1,23 @@
 [
-  "120363419522186448@newsletter", 
-  "120363424055479116@newsletter",
-  "120363408438418826@newsletter",
-  "120363402486790275@newsletter",
-  "120363390274692764@newsletter"
+  { "jid": "120363419522186448@newsletter", "name": "arka" },
+  { "jid": "120363424055479116@newsletter", "name": "arka2" },
+  { "jid": "120363408438418826@newsletter", "name": "Zenith7Volt" },
+  { "jid": "120363402486790275@newsletter", "name": "Zenn2" },
+  { "jid": "120363390274692764@newsletter", "name": "Arga" },
+  { "jid": "120363384087173434@newsletter", "name": "Rikzz" },
+  { "jid": "120363350417039520@newsletter", "name": "rikz 2" },
+  { "jid": "120363419522@newsletter", "name": "Fahzar" },
+  { "jid": "120363423085599160@newsletter", "name": "PrasszTzy" },
+  { "jid": "120363386926297644@newsletter", "name": "Knowndraa" },
+  { "jid": "120363304561482795@newsletter", "name": "Knowndraa2" },
+  { "jid": "120363319695428225@newsletter", "name": "Tex4su" },
+  { "jid": "120363328692411135@newsletter", "name": "Tex4su¹" },
+  { "jid": "120363419298914034@newsletter", "name": "Hamxyz" },
+  { "jid": "120363420724364049@newsletter", "name": "Hamxyz2" },
+  { "jid": "120363373464276235@newsletter", "name": "Hamxyz3" },
+  { "jid": "120363330289360382@newsletter", "name": "Dilxz" },
+  { "jid": "120363401109399203@newsletter", "name": "VinJembud" },
+  { "jid": "120363402135797882@newsletter", "name": "AnzOffc" },
+  { "jid": "120363418977603376@newsletter", "name": "DanzNano" },
+  { "jid": "120363402701455639@newsletter", "name": "CikssXyz" }
 ]
